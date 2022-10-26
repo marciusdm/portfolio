@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="banner2.jpg" height="312" width="960" >
+  <img src="banner2.png" height="312" width="960" >
 </p>
 
 # Marcius D. Moraes
