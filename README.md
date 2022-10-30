@@ -18,6 +18,6 @@
 Em breve
 
 ## Outros projetos
-* [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator)
+* [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Calculadora Estatística para Android.
 
 <a href="https://br.freepik.com/vetores-gratis/estrelas-brilhantes-brilham-da-borda-de-um-planeta_6538801.htm#query=eclipse&position=3&from_view=search&track=sph">Imagem de GarryKillian</a> no Freepik
