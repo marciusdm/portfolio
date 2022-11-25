@@ -15,7 +15,7 @@
 * [Medium](https://medium.com/@marciusdellano)
 
 ## Projetos de data science:
-Em breve
+* Uma breve análise dos dados do Airbnb para a cidade de Barcelona: https://bityli.com/GIYlEqVjU
 
 ## Outros projetos
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Calculadora Estatística para Android.
