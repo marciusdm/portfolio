@@ -13,7 +13,7 @@
 * [Medium](https://medium.com/@marciusdellano)
 
 ## Data science projects
-* Coming soon
+* A brief analysis of Airbnd data for city of Barcelona: <a href="https://github.com/marciusdm/dsnp/blob/main/projeto1/readme_en.md">https://github.com/marciusdm/dsnp/blob/main/projeto1/readme_en.md</a>
 
 ## Other projects
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Stastistical calculator for Android.
