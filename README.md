@@ -14,6 +14,8 @@
 * [LinkedIn](https://www.linkedin.com/in/marciusdm/)
 * [Medium](https://medium.com/@marciusdellano)
 
+Click <a href="Readme_en.md">here</a> for an English version of this page.
+
 ## Projetos de data science:
 * Uma breve análise dos dados do Airbnb para a cidade de Barcelona: https://bityli.com/GIYlEqVjU
 
