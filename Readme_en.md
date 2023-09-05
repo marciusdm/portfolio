@@ -15,6 +15,7 @@
 ## Data science projects
 * A brief analysis of Airbnd data for city of Barcelona: <a href="https://github.com/marciusdm/dsnp/blob/main/projeto1/readme_en.md">https://github.com/marciusdm/dsnp/blob/main/projeto1/readme_en.md</a>
 * Detecting credit card fraud using Machine Learning: <a href="https://github.com/marciusdm/dsnp/blob/main/projeto4/readme_en.md">https://github.com/marciusdm/dsnp/blob/main/projeto4/readme_en.md</a>
+* Churn prediction for a telecom company: <a href="https://github.com/marciusdm/dsnp/blob/main/projeto5/readme_en.md">https://github.com/marciusdm/dsnp/blob/main/projeto5/readme_en.md</a>
 
 ## Other projects
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Stastistical calculator for Android.
