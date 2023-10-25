@@ -21,6 +21,8 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 * Um panorama da COVID-19 no Brasil e no mundo: https://github.com/marciusdm/dsnp/tree/main/projeto2
 * Detecção de fraudes em cartão de crédito usando machine learning: https://github.com/marciusdm/dsnp/tree/main/projeto4
 * Churn prediction para uma empresa de telecomunicações: https://github.com/marciusdm/dsnp/tree/main/projeto5
+* Prevendo o valor de seguros de saúde (projeto de regressão): https://github.com/marciusdm/dsnp/tree/main/projeto6_1
+* Prevendo a saúde de fetos usando machine learning (projeto de classificação): https://github.com/marciusdm/dsnp/tree/main/projeto6_2
 
 ## Outros projetos
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Calculadora Estatística para Android.
