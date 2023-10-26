@@ -23,6 +23,7 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 * Churn prediction para uma empresa de telecomunicações: https://github.com/marciusdm/dsnp/tree/main/projeto5
 * Prevendo o valor de seguros de saúde (projeto de regressão): https://github.com/marciusdm/dsnp/tree/main/projeto6_1
 * Prevendo a saúde de fetos usando machine learning (projeto de classificação): https://github.com/marciusdm/dsnp/tree/main/projeto6_2
+* Prevendo de demanda para uma loja de vinhos usando séries temporais: https://github.com/marciusdm/dsnp/tree/main/projeto6_3
 
 ## Outros projetos
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Calculadora Estatística para Android.
