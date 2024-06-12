@@ -26,6 +26,8 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 * Prevendo de demanda para uma loja de vinhos usando séries temporais: https://github.com/marciusdm/dsnp/tree/main/projeto6_3
   
 ## Artigos
+* Introdução ao web scraping utilizando ferramenta Scrapy: https://bit.ly/45pYI7J
+  * [Código-fonte](https://github.com/marciusdm/artigos/tree/main/intro_web_scraping_scrapy) utilizado no artigo
 * Soluções de machine learning na nuvem: prós e contras: https://bit.ly/3yZNB9D
 * Lidando com variáveis categóricas em Machine Learning: https://bit.ly/3RoiI58
   * [Notebook](https://github.com/marciusdm/artigos/blob/main/encoders/ArtigoSobreEncoders.ipynb) utilizado no artigo
