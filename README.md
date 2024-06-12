@@ -24,6 +24,14 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 * Prevendo o valor de seguros de saúde (projeto de regressão): https://github.com/marciusdm/dsnp/tree/main/projeto6_1
 * Prevendo a saúde de fetos usando machine learning (projeto de classificação): https://github.com/marciusdm/dsnp/tree/main/projeto6_2
 * Prevendo de demanda para uma loja de vinhos usando séries temporais: https://github.com/marciusdm/dsnp/tree/main/projeto6_3
+  
+## Artigos
+* Soluções de machine learning na nuvem: prós e contras: https://bit.ly/3yZNB9D
+* Lidando com variáveis categóricas em Machine Learning: https://bit.ly/3RoiI58
+  * [Notebook](https://github.com/marciusdm/artigos/blob/main/encoders/ArtigoSobreEncoders.ipynb) utilizado no artigo
+* Como criar gráficos visualmente mais impactantes no Matplotlib: https://bit.ly/3KHDpoA
+  * [Notebook](https://github.com/marciusdm/artigos/blob/main/storytellingchapter8/ExemplosStoryTelling.ipynb) utilizado no artigo
+* Por que os gráficos de pizza devem ser evitados e o que utilizar no lugar: https://bit.ly/3XkiUG9
 
 ## Outros projetos
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Calculadora Estatística para Android.
