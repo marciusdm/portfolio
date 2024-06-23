@@ -27,7 +27,7 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 
 ## Pojetos de web-scaping
 * Uma aplicação prática de web-scraping para extrair músicas que chegaram ao primeiro lugar da parada norte-americana Billboard Hot 100: https://bit.ly/3KXoFlE
-  *  [Código-fonte](https://github.com/marciusdm/artigos/tree/main/intro_web_scraping_scrapy) utilizado no projeto
+  *  [Código-fonte](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard) utilizado no projeto
   
 ## Artigos
 * Introdução ao web scraping utilizando ferramenta Scrapy: https://bit.ly/45pYI7J
