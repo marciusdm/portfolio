@@ -17,7 +17,7 @@
 Click <a href="Readme_en.md">here</a> for an English version of this page.
 
 ## Projetos de data science:
-* Uma breve análise dos dados do Airbnb para a cidade de Barcelona: https://bityli.com/GIYlEqVjU
+* Uma breve análise dos dados do Airbnb para a cidade de Barcelona: https://github.com/marciusdm/dsnp/tree/main/projeto1
 * Um panorama da COVID-19 no Brasil e no mundo: https://github.com/marciusdm/dsnp/tree/main/projeto2
 * Detecção de fraudes em cartão de crédito usando machine learning: https://github.com/marciusdm/dsnp/tree/main/projeto4
 * Churn prediction para uma empresa de telecomunicações: https://github.com/marciusdm/dsnp/tree/main/projeto5
@@ -27,6 +27,7 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 
 ## Pojetos de web-scaping
 * Uma aplicação prática de web-scraping para extrair músicas que chegaram ao primeiro lugar da parada norte-americana Billboard Hot 100: https://bit.ly/3KXoFlE
+  *  [Código-fonte](https://github.com/marciusdm/artigos/tree/main/intro_web_scraping_scrapy) utilizado no projeto
   
 ## Artigos
 * Introdução ao web scraping utilizando ferramenta Scrapy: https://bit.ly/45pYI7J
