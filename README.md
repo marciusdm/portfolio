@@ -24,6 +24,9 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 * Prevendo o valor de seguros de saúde (projeto de regressão): https://github.com/marciusdm/dsnp/tree/main/projeto6_1
 * Prevendo a saúde de fetos usando machine learning (projeto de classificação): https://github.com/marciusdm/dsnp/tree/main/projeto6_2
 * Prevendo de demanda para uma loja de vinhos usando séries temporais: https://github.com/marciusdm/dsnp/tree/main/projeto6_3
+
+## Pojetos de web-scaping
+* Uma aplicação prática de web-scraping para extrair músicas que chegaram ao primeiro lugar da parada norte-americana Billboard Hot 100: https://bit.ly/3KXoFlE
   
 ## Artigos
 * Introdução ao web scraping utilizando ferramenta Scrapy: https://bit.ly/45pYI7J
