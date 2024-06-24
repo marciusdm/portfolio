@@ -17,6 +17,11 @@
 * Detecting credit card fraud using Machine Learning: <a href="https://github.com/marciusdm/dsnp/blob/main/projeto4/readme_en.md">https://github.com/marciusdm/dsnp/blob/main/projeto4/readme_en.md</a>
 * Churn prediction for a telecom company: <a href="https://github.com/marciusdm/dsnp/blob/main/projeto5/readme_en.md">https://github.com/marciusdm/dsnp/blob/main/projeto5/readme_en.md</a>
 
+## Web-scraping projects
+
+* A practical web-scraping application to extract songs that reached number one on the North American Billboard Hot 100 chart: https://bit.ly/3KX1g3P
+   * [Source code](https://github.com/marciusdm/webscraping/raw/main/scrapy_billboard/billboard.zip) used in this project
+
 ## Other projects
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Stastistical calculator for Android.
 
