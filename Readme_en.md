@@ -19,8 +19,10 @@
 
 ## Web-scraping projects
 
-* A practical web-scraping application to extract songs that reached number one on the North American Billboard Hot 100 chart: https://bit.ly/3KX1g3P
-   * [Source code](https://github.com/marciusdm/webscraping/raw/main/scrapy_billboard/billboard.zip) used in this project
+* A practical web-scraping application to extract songs that reached number one on the North American Billboard Hot 100 chart: https://bit.ly/3KX1g3P (part 1 - obtaining data)
+   * [Source code](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard) used in this project
+* A practical web-scraping application to extract songs that reached number one on the North American Billboard Hot 100 chart: https://bit.ly/46g0x7H (part 2 - displaying data)
+  * [Source code](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard_pt02) used in this project
 
 ## Other projects
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Stastistical calculator for Android.
