@@ -23,6 +23,8 @@
    * [Source code](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard) used in this project
 * A practical web-scraping application to extract songs that reached number one on the North American Billboard Hot 100 chart: https://bit.ly/46g0x7H (part 2 - displaying data)
   * [Source code](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard_pt02) used in this project
+* Extracting college counselors info from [SchoolDirectory](https://www.schooldirectory.org/) web site, which contains a list of North-American private schools.
+  * [Source code](https://github.com/marciusdm/webscraping/blob/main/school_directory) used in this project  
 
 ## Other projects
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Stastistical calculator for Android.
