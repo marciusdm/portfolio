@@ -31,7 +31,9 @@ Click <a href="Readme_en.md">here</a> for an English version of this page.
 * Uma aplicação prática de web-scraping para extrair músicas que chegaram ao primeiro lugar da parada norte-americana Billboard Hot 100 (parte 2 - exibindo os dados): https://bit.ly/4fcywlx
    *  [Código-fonte](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard_pt02) utilizado no projeto
 * Extraindo uma lista de conselheiros escolares a partir do site [SchoolDirectory.org](https://www.schooldirectory.org/), um site que mostra uma lista de escolas particulares dos EUA.
-   *  [Código-fonte](https://github.com/marciusdm/webscraping/tree/main/school_directory) utilizado no projeto       
+   * [Página da aplicação](https://github.com/marciusdm/webscraping/tree/main/school_directory)
+* Um aplicação que integra o Scrapy com Django p/ extrair lista de processadores móveis a partir do site [NanoReview](https://nanoreview.net/en/soc-list/rating) e incluir filtros de pesquisa
+   * [Página da aplicação](https://github.com/marciusdm/webscraping/tree/main/nanoreview-django)    
   
 ## Artigos
 * Introdução ao web scraping utilizando ferramenta Scrapy: https://bit.ly/45pYI7J
