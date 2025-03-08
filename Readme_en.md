@@ -24,9 +24,9 @@
 * A practical web-scraping application to extract songs that reached number one on the North American Billboard Hot 100 chart: https://bit.ly/46g0x7H (part 2 - displaying data)
   * [Source code](https://github.com/marciusdm/webscraping/tree/main/scrapy_billboard_pt02) used in this project
 * Extracting college counselors info from [SchoolDirectory](https://www.schooldirectory.org/) web site, which contains a list of North-American private schools.
-  * [Source code](https://github.com/marciusdm/webscraping/blob/main/school_directory) used in this project  
-* An applicação that integrates Scrapy wih Django for extracting a list of mobile processors from [NanoReview](https://nanoreview.net/en/soc-list/rating) website, including a search filter:
-  * App [page](https://github.com/marciusdm/webscraping/tree/main/nanoreview-django)  
+  * [Home page](https://github.com/marciusdm/webscraping/blob/main/school_directory) of this app  
+* An applicdation that integrates Scrapy wih Django for extracting a list of mobile processors from [NanoReview](https://nanoreview.net/en/soc-list/rating) website, including a search filter:
+  * [Home-page](https://github.com/marciusdm/webscraping/tree/main/nanoreview-django) of this app
 ## Other projects
 * [Statistical Tools](https://play.google.com/store/apps/details?id=com.mdmoraes.statisticalcalculator): Stastistical calculator for Android.
 
